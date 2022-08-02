@@ -24,7 +24,7 @@ p.ex1 {
 
 <head>
 	<meta charset="UTF-8">
-	<title>Media Contributions</title>
+	<title>Teaching</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="format-detection" content="telephone=no">
 	<meta name="apple-mobile-web-app-capable" content="yes">
@@ -65,7 +65,7 @@ p.ex1 {
 
 				<!-- Logo -->
 				<div class="logo">
-					<a href="index.html">Media Contributions</a>
+					<a href="index.html">Teaching</a>
 				</div>
 				<!-- End Logo -->
 			</div>
@@ -82,7 +82,7 @@ p.ex1 {
 							<div class="table-cell">
 								<!-- Logo -->
 								<div class="logo">
-									<p class="capitalize"><font face="Arial">Media Contributions</font></p>
+									<p class="capitalize"><font face="Arial">Teaching</font></p>
 								</div>
 								<!-- End Logo -->
 
@@ -106,15 +106,9 @@ p.ex1 {
 												
 											</li>
 
-                      <li>
+                                                                                        <li>
 												<a href="publications.html"><p class="ex1">Publications<P></a>
 											</li>
-                      
-                         <li>
-												<a href="media.html"><p class="ex1">Media Contributions<P></a>
-											</li>
-                      
-                      
 											</font>
 
 
@@ -151,8 +145,9 @@ p.ex1 {
 
 
                                                                         <p align="justify" style="margin-top:10px;">
-												   
-                                                                        <font size="4" face="Arial"><b>Interview with American Society of Mechanical Engineers (ASME)</b><font size="3" face="Arial">Building the Smart City Infrastructure for Future Vehicles <a href="https://app.webinar.net/vEwzoYeoLgK?mcc=EDIT">[Webinar Link]</br>
+									<font size="4" face="Arial"><b>Spring 2022: </b><font size="3" face="Arial">UT: CE 397- Energy System Operation/Optimization</br>
+									<font size="4" face="Arial"><b>Fall 2021: </b><font size="3" face="Arial">UT: ARE 346N- Building Environmental Systems</br>					   
+                                                                        <font size="4" face="Arial"><b>Fall 2020: </b><font size="3" face="Arial">Carnegie Mellon: 39613 - Energy Storage & Transport</br>
 									</p>
 
 
@@ -202,4 +197,3 @@ p.ex1 {
 
 </body>
 </html>
-
